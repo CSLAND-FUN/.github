@@ -1,12 +1,16 @@
-## Hi there 👋
+## CSLAND.FUN — Проект игровых серверов по CS:GO и CS2
 
-<!--
+### Ссылки на нас
+- <strong>Веб-сайт: <a href="https://csland.fun/">Клик</a></strong>
+- <strong>Telegram: <a href="https://t.me/csland_project">Клик</a></strong>
+- <strong>Discord: <a href="https://discord.gg/csland-936334108240543785">Клик</a></strong>
+- <strong>TikTok: <a href="https://www.tiktok.com/@cs.land">Клик</a></strong>
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### О репозиториях
+<strong>На текущий момент в открытом доступе есть 2 репозитория, один из которых является репозиторием для локализации бота.</strong> <br />
+<strong>Все оставшиеся репозитории (а их, на самом деле, куда больше) скрыты.</strong> <br />
+<strong>Скрыты они для того, чтобы чужие руки не могли "украть" код его создателя и в последствие выдавать за свой.</strong> <br /> <br />
+<strong>Я [whyme.], как разработчик, уважаю открытый исходных код, но такие моменты вызывают недоверие к людям.</strong> <br />
+<strong>На создание, исправления и продвижение этих мини-проектов уходит много сил и времени, а когда их берут и выдают за своё - начинаешь сомневаться в себе.</strong> <br /> <br />
+<strong>Возможно, в далёком будущем, исходный код всех скриптов вновь будет открыт для всех, но не сейчас.</strong> <br />
+<strong>Имеем, что имеем 🔥</strong>
